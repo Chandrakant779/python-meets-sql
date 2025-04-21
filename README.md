@@ -7,6 +7,7 @@ This project showcases how to integrate Python with SQL databases to perform ess
 It highlights core database management techniques while automating workflows using Python scripts.
 
 🔧 Technologies Used
+
 Python 3.x
 
 MYSQL
